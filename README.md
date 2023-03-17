@@ -1,4 +1,4 @@
-# ML_Projects
+# Gender, Age Detection
 
 This project aims to prevent catfishing on social media by verifying a user's age and gender through a live camera using Deep Learning techniques. The system will use Python, Twitter Data Collection, OpenCV (Viola Jones Algorithm), Numpy, and Matplotlib to capture and analyze a user's face during registration.
 
